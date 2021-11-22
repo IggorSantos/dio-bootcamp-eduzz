@@ -16,3 +16,10 @@ Aqui serão colocados os códigos referentes aos exercicios realizados neste boo
 2 - [Compra de pimentões](https://github.com/IggorSantos/dio-bootcamp-eduzz/blob/main/desafios-basicos-javascript/exercicio-02.js)
 
 3 - [Menor numero de notas possiveis](https://github.com/IggorSantos/dio-bootcamp-eduzz/blob/main/desafios-basicos-javascript/exercicio-03.js)
+
+## Desafios medios em Javascipt
+1 - [Calculo de salarios](https://github.com/IggorSantos/dio-bootcamp-eduzz/blob/main/desafios-medios-javascript/exercicio-01.js)
+
+2 - [Numero de salarios](https://github.com/IggorSantos/dio-bootcamp-eduzz/blob/main/desafios-medios-javascript/exercicio-02.js)
+
+3 - [Valores positivos](https://github.com/IggorSantos/dio-bootcamp-eduzz/blob/main/desafios-medios-javascript/exercicio-03.js)
